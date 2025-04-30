@@ -1,4 +1,4 @@
-# Static Website with Vercel
+![image](https://github.com/user-attachments/assets/78f69e86-3886-4ced-a9de-55b033e1bb89)# Static Website with Vercel
 
 ## Overview
 
@@ -34,3 +34,6 @@ Routes: All requests (e.g., /, /style.css, /about.html) are routed to the src/ f
 "src": "/(.*)": Matches any URL.
 
 "dest": "/src/$1": Maps the request to the appropriate file inside the src/ folder.
+
+
+![image](https://github.com/user-attachments/assets/fb977137-a3de-4ca7-955f-cfb8f58ca94a)
