@@ -3,7 +3,7 @@
     "builds": [
         {
             "src": "/(.*)",
-            "dest": "/index.js"
+            "dest": "/index.html"
         }
     ]
 }
