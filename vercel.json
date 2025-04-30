@@ -1,8 +1,9 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "/(.*)"
-    }
-  ]
+    "version": 2,
+    "routes": [
+        {
+            "src": "/(.*)",
+            "des": "/index.html"
+        }
+    ]
 }
