@@ -5,12 +5,14 @@
 This project demonstrates how to deploy a static website with the main HTML (`index.html`), CSS (`style.css`), and other assets in the `src/` folder using **Vercel**.
 
 ## Folder Structure
-
-/ ├── vercel.json # Vercel configuration file └── src/ # Contains the website files ├── index.html # Main HTML file for the homepage ├── style.css # Main CSS file for styling └── other-assets.js # Example of additional JavaScript or other assets
-
-pgsql
-Copy
-Edit
+```
+/
+├── vercel.json          # Vercel configuration file
+└── src/                 # Contains the website files
+    ├── index.html       # Main HTML file for the homepage
+    ├── style.css        # Main CSS file for styling
+    └── other-assets.js  # Example of additional JavaScript or other assets
+```
 
 ## `vercel.json` Configuratio
 ```
